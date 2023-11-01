@@ -15,12 +15,12 @@ Key Points of this Project : <br>
 <br>
 # How to Run the Project?
   clone the Project in your environment and Run the command to install all the dependencies <br>
-        ** npm install **
+        **npm install**
         <br>
   After this command all the dependencies will be installed. To see the list of all dependencies open the * package.json* file. <br>
 
   Now lets start the server by running the command <br>
-      ** npm start **
+      **npm start**
 <br>
 # APIs description : 
   (POST) **localhost:3000/api/auth/v1/register**  --- used for registration params : email,password and repeat password <br>
